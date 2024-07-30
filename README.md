@@ -1,4 +1,4 @@
-# IST-Main : Inferential Statistics
+# IST-Main : Inferential Statistics  ![HitCount](https://hits.dwyl.com/fromsantanu/IST-Main.svg)
 The scope include advanced charting with probaility distributions, hypothesis tesing methods, predicting with regression options, ANOVA testing and many more.
 
 ## Key IST Projects
